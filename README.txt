@@ -38,6 +38,12 @@ Tested student registration, login, attendance, and dashboard features. Performe
 - SDLC, STLC knowledge  
 
 ---
+AI Attendance App (Face Recognition)
+- Tested an AI-based attendance system where employees mark attendance through facial recognition.
+- Verified the face detection accuracy across multiple users and lighting conditions.
+- Logged bugs related to login, camera access, and false face detection.
+- Created detailed test cases, scenario-based validations, and edge case documentation.
+
 
 ## 🔗 Contact Me
 
